@@ -1,0 +1,11 @@
+.card {
+    border: 1px gray solid;
+    padding: 2rem;
+    width: 15rem;
+    height: 15rem;
+    font-size: 1rem;
+    .value {
+        color: red;
+        font-size: 3rem;
+    }
+}
